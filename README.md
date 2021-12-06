@@ -28,7 +28,7 @@ Use my 99-ms-sans-serif-bold.conf from `.config/fontconfig/conf.d` folder to fix
 Download plaemoon theme [here](https://addons.palemoon.org/addon/moonscape/)  
 Download palemoon icon pack [here](https://github.com/FranklinDM/Moonscape-IconPack/releases)  
 
-Just click on moonscape-ip-1-00.xpi and palemoon will automatically recognize the file as addon  
+Just click on `moonscape-ip-1-00.xpi` and palemoon will automatically recognize the file as addon  
 
 Reorganize the toolbar using customize option as you please  
 
