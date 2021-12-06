@@ -1,10 +1,12 @@
 <h1 align="center">windows95 dotfiles</h1>
 
-![img](https://i.imgur.com/yUFo2wk.png)
+![img](https://i.imgur.com/ooiHDCj.png)
+
+![img](https://i.imgur.com/2VFPXAC.png)
 
 ![img](https://i.imgur.com/Zv6shCh.png)
 
-![img](https://i.imgur.com/OBS2HJ2.png)
+![img](https://i.imgur.com/rK4y623.png)
 
 
 
