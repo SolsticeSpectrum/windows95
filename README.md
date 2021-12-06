@@ -18,10 +18,10 @@ Follow all instructions, including system wide installs, qt5, fonts etc.
 
 During the auto install, make sure to check `zsh` checkbox for that MS DOS feeling  
 
-I included fonts here at fonts folder so at [ MS Sans Serif font ] section, you don't need generate them with fontforge  
+I included fonts here at `./fonts/truetype/ms_sans_serif` folder so at [ MS Sans Serif font ] section, you don't need to generate them with fontforge  
 just copy them from fonts folder here  
 
-Use my 99-ms-sans-serif-bold.conf from fonts folder to fix rendering of those fonts  
+Use my 99-ms-sans-serif-bold.conf from `.config/fontconfig/conf.d` folder to fix rendering of those fonts  
 
 ## palemoon  
 
