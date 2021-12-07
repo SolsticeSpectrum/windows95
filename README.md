@@ -40,5 +40,6 @@ You can get the homepage I use in this repo and set it as default page in palemo
 
 ## audacious  
 
-For that winamp experience, download audacious. Put winamp.wsz from .local/share/audacious/Skins to same folder in your home folder  
+For that winamp experience, download audacious  
+Put winamp.wsz from .local/share/audacious/Skins to same folder in your home folder  
 Set it as theme in audacious settingss  
