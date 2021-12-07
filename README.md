@@ -8,6 +8,7 @@
 
 ![img](https://i.imgur.com/rK4y623.png)
 
+![img](https://i.imgur.com/3NLk9Ea.png)
 
 
 # Guide (XFCE)
