@@ -44,6 +44,17 @@ For that winamp experience, download audacious
 Put winamp.wsz from .local/share/audacious/Skins to same folder in your home folder  
 Set it as theme in audacious settingss  
 
+## discord  
+
+Install [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), [Powercord](https://github.com/powercord-org/powercord), [Goosemod](https://goosemod.com/), or [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp)  
+Put `windows9.theme.css` from `.config/BetterDiscord/themes` to corresponding location for app you choose, I chose BetterDiscord  
+Activate theme in Discord settings  
+
+## vs-code  
+
+Install [WindowsNT](https://marketplace.visualstudio.com/items?itemName=wassimdev.windows-nt-vscode-theme) theme and activate both  
+it's theme and icon pack in VS Code  
+
 ## Credits
 
 [grtcdr](https://github.com/grtcdr/startpages) - homepage
