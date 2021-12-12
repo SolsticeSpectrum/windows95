@@ -1,5 +1,5 @@
 <h1 align="center">windows95 dotfiles</h1>
-  
+
 ![img](https://i.imgur.com/WwfQxAZ.png)
 
 ![img](https://i.imgur.com/z19ztsj.png)
@@ -9,8 +9,8 @@
 ![img](https://i.imgur.com/Lu0uwp7.png)
 
 ![img](https://i.imgur.com/hvnk3mq.png)
-  
-  
+<br />
+<br />
 # Guide (XFCE)
 
 ## theme
