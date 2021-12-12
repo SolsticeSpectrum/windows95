@@ -53,8 +53,8 @@ Activate theme in Discord settings
 ## vs-code  
 
 Install [WindowsNT](https://marketplace.visualstudio.com/items?itemName=wassimdev.windows-nt-vscode-theme) theme and activate both it's theme and icon pack in VS Code  
-  
-  
+<br />
+<br />
 ## Credits
 
 [grtcdr](https://github.com/grtcdr/startpages) - homepage
