@@ -1,14 +1,12 @@
 <h1 align="center">windows95 dotfiles</h1>
 
-![img](https://i.imgur.com/ooiHDCj.png)
+![img](https://i.imgur.com/WwfQxAZ.png)
 
-![img](https://i.imgur.com/2VFPXAC.png)
+![img](https://i.imgur.com/z19ztsj.png)
 
-![img](https://i.imgur.com/OnVnHiz.png)
+![img](https://i.imgur.com/Lu0uwp7.png)
 
-![img](https://i.imgur.com/rK4y623.png)
-
-![img](https://i.imgur.com/3NLk9Ea.png)
+![img](https://i.imgur.com/hvnk3mq.png)
 
 
 # Guide (XFCE)
