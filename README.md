@@ -47,7 +47,7 @@ Set it as theme in audacious settingss
 ## discord  
 
 Install [BeautifulDiscord](https://github.com/leovoel/BeautifulDiscord), [Powercord](https://github.com/powercord-org/powercord), [Goosemod](https://goosemod.com/), or [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp)  
-Put `windows9.theme.css` from `.config/BetterDiscord/themes` to corresponding location for app you choose, I chose BetterDiscord  
+Put `windows95.theme.css` from `.config/BetterDiscord/themes` to corresponding location for app you choose, I chose BetterDiscord  
 Activate theme in Discord settings  
 
 ## vs-code  
